@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/app.js"],"names":["Test","sno","name"],"mappings":";;;;IAAMA,I,GACF,cAAYC,GAAZ,EAAgBC,IAAhB,EAAqB;AAAA;;AACjB,OAAKD,GAAL,GAASA,GAAT;AACA,OAAKC,IAAL,GAAUA,IAAV;AACH,C","sourcesContent":["class Test{\r\n    constructor(sno,name){\r\n        this.sno=sno;\r\n        this.name=name;\r\n    }\r\n}"],"file":"app.js"}

@@ -53,7 +53,7 @@ module.exports = function(grunt) {
           
             // for scripts, run jshint and uglify 
             scripts: { 
-              files: 'src/**/*.js', tasks: ['uglify'] 
+              files: 'src/**/*.js', tasks: [] 
             } 
           },
           connect: {
